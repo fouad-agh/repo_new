@@ -1,16 +1,16 @@
 # Index
-1. Desenvolupament de programari (‚Äôsoftware‚Äô)
+1. Desenvolupament de programari (ísoftwareí)
 
-	[1.1. Concepte de programa inform√†tic] (programa_informatic.md)
+	[1.1. Concepte de programa inform‡tic] (programa_informatic.md)
 
-	[1.2. Codi font, codi objecte i codi executable; m√†quines virtuals.]
+	[1.2. Codi font, codi objecte i codi executable; m‡quines virtuals] (codi_font.md)
 
-	[1.3. Tipus de llenguatges de programaci√≥.]
+	[1.3. Tipus de llenguatges de programaciÛ]
 
-	[1.4. Paradigmes de programaci√≥.]
+	[1.4. Paradigmes de programaciÛ]
 
-	[1.5. Caracter√≠stiques dels llenguatges m√©s difosos.]
+	[1.5. CaracterÌstiques dels llenguatges mÈs difosos]
 
-	[1.6. Fases del desenvolupament d'una aplicaci√≥: an√†lisi, disseny, codificaci√≥, proves, documentaci√≥, manteniment i explotaci√≥, entre d'altres.]
+	[1.6. Fases del desenvolupament d'una aplicaciÛ: an‡lisi, disseny, codificaciÛ, proves, documentaciÛ, manteniment i explotaciÛ, entre d'altres.]
 
-	[1.7. Proc√©s d'obtenci√≥ de codi executable a partir del codi font; eines implicades]
+	[1.7. ProcÈs d'obtenciÛ de codi executable a partir del codi font; eines implicades]
